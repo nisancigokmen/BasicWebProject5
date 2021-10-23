@@ -1,6 +1,6 @@
 # BasicWebProject5
+![Screenshot_2021-10-23  ](https://user-images.githubusercontent.com/91744618/138555730-c34307c8-0b4f-432c-b452-692db33f7f50.png)
 
-![interface](https://user-images.githubusercontent.com/91744618/137242163-68780128-247c-4f12-8629-567d68e53f49.png)
 
 <h2>Please let us know your questions and comments... </h2>
 <hr>
@@ -12,9 +12,8 @@
   
   
   
-  .
-  
-  
 
+  
+..
 </div><br>
 &copy; Gökmen Nişancı / Web Developer
