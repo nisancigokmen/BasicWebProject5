@@ -1,9 +1,6 @@
 # BasicWebProject5
 ![Screenshot_2021-10-23  ](https://user-images.githubusercontent.com/91744618/138555813-ae62abf2-748b-4ef5-9f70-7e900cd73e49.png)
 
-
-<h2>Please let us know your questions and comments... </h2>
-<hr>
 <h2> CONTACT </h2>
 <a href = "http://www.gmail.com" > nisancigokmen@gmail.com</a> <br>
 <hr>
