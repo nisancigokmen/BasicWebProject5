@@ -11,6 +11,7 @@
  
  </div>
  
+ 
  <div id="tools">
  <h2> Languages and tools:  </h2><br>
  
@@ -23,8 +24,6 @@
  </div>
  
 <br>
-
-  
 
 </div><br>
 &copy; Gökmen Nişancı / Web Developer. <br>
